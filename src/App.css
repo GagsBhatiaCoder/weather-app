@@ -1,0 +1,25 @@
+/* .main-cointainer{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(Images/Gagan_bg_portfolio_img.jpg);
+    background-size: cover;
+    padding: 10px;
+}
+.main-heading{
+    text-align: center;
+    font-size: 4rem;
+    margin-top: 100px;
+}
+.typewriter{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    align-items: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.hover:hover{
+    text-decoration: underline;
+    font-size: 1rem;
+} */

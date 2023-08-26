@@ -1,0 +1,63 @@
+body{
+
+}
+.container-box{
+  width: 100%;
+  height: 100vh;
+  color: #fff;
+  padding: 1rem;
+}
+/* Cloudy */
+.cloudy-bg {
+  background-image: url("Images/Cloudy.jpg");
+  background-size: cover;
+}
+
+/* Haze */
+.haze-bg {
+  background-image: url("Images/Haze.jpg");
+  background-size: cover;
+}
+
+/* Sunny */
+.sunny-bg {
+  background-image: url("Images/Sunny2.jpg");
+  background-size: cover;
+}
+
+/* Rain */
+.rain-bg {
+  background-image: url("Images/Rain.jpg");
+  background-size: cover;
+}
+.city{
+    font-size: 4rem;
+}
+.icon-large {
+    font-size: 200px;
+  }
+  .weather{
+    text-align: center;
+    font-size: 1.5rem;
+  }
+  .temp-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center
+  }
+  .tempreture{
+    font-size: 4rem;
+  }
+  .weather-icons{
+    margin: 0 auto;
+  }
+  .wind-row{
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.2rem;
+  }
+  .altitude-row{
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.2rem;
+  }
